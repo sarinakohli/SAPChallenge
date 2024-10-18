@@ -1,6 +1,6 @@
-﻿Id,Name,Email,Position,Salary
-229471,Mary,mary@gmail.com,Product Manager,"30,000"
-385032,Jack,jack@gmail.com,Software Engineer ,"45,000"
-208533,Orla,orla@hotmail.com,Backend Developer,"50,000"
-694084,Sarina,sarina.kohli.2023@mumail.ie,Software Developer Intern,"30,000"
-680355,Paul,paul@yahoo.com,UX Designer,"60,000"
+﻿id,name,email,position,salary
+1,Mary,mary@gmail.com,Product Manager,"30,000"
+2,Jack,jack@gmail.com,Software Engineer ,"45,000"
+3,Orla,orla@hotmail.com,Backend Developer,"50,000"
+4,Sarina,sarina.kohli.2023@mumail.ie,Software Developer Intern,"30,000"
+5,Paul,paul@yahoo.com,UX Designer,"60,000"
